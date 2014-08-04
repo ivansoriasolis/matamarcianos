@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MataMarcianosV5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="menu_play">Jugar</string>
+	<string name="menu_options">Opciones</string>
+	<string name="menu_exit">Salir</string>
+    <string name="sonidoMenu">Sonido</string>
+	<string name="vibracionMenu">Vibración</string>
+	<string name="cotrolMenu">Control con Flechas</string>
+
+    <string name="results_format">
+      Puntos: %1$d\nTiempo Total: %2$.1f</string>
+	 <string name="reset_game"> CONTINUAR </string>
+	 <string name="win"> PAUSA </string>
+</resources>
